@@ -34,10 +34,11 @@ For the "BEFORE" metrics, all resources were originally deployed, exposed to the
 For the "AFTER" metrics, Network Security Groups were hardened by blocking ALL traffic with the exception of my admin workstation, and all other resources were protected by their built-in firewalls as well as Private Endpoint
 
 ## Attack Maps Before Hardening / Security Controls
-![NSG Allowed Inbound Malicious Flows](https://github.com/julio1415/Cloud-SOC/assets/113144448/bce16947-574b-4177-8035-7161a781585a)<br>
-![Linux Syslog Auth Failures](https://github.com/julio1415/Cloud-SOC/assets/113144448/e25a2a64-ebbe-4aa6-81bf-673a145a365b)
+![NSG Allowed Inbound Malicious Flows](https://github.com/julio1415/Cloud-SOC/assets/113144448/22cf4924-ade2-454d-8aa1-8834fa21c01b)
 <br>
-![Windows RDP/SMB Auth Failures](https://github.com/julio1415/Cloud-SOC/assets/113144448/359b878a-f7d4-4988-ba53-a2ef8de3420e)
+![Linux Syslog Auth Failures](https://github.com/julio1415/Cloud-SOC/assets/113144448/4ba05913-76b0-4e17-897d-dfe0327b29c3)
+<br>
+![Windows RDP/SMB Auth Failures](https://github.com/julio1415/Cloud-SOC/assets/113144448/5eafca3c-3604-4602-9086-fdbfe9b59191)
 <br>
 
 ## Metrics Before Hardening / Security Controls
